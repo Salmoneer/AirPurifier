@@ -33,20 +33,22 @@
     margin: 0 20px;
 }
 
-.sectiontext#statstext {
+.sectiontext.leftsectiontext {
     margin-right: 148px;
 }
 
-.sectiontext#gametext {
+.sectiontext.rightsectiontext {
     align-items: end;
     margin-left: 148px;
 }
 
 .sectiontext p {
     text-justify: inter-word;
+    margin-top: 6px;
+    margin-bottom: 6px;
 }
 
-.sectiontext#gametext p {
+.sectiontext.rightsectiontext p {
     text-align: right;
 }
 
