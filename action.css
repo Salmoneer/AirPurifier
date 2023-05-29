@@ -39,11 +39,3 @@
     border-top-left-radius: 30px;
     padding: 5px 12px;
 }
-
-.step:first-child .step-name.step-name-left {
-    border-top-right-radius: 0;
-}
-
-.step:first-child .step-name.step-name-right {
-    border-top-left-radius: 0;
-}
