@@ -10,6 +10,10 @@
     flex-direction: column;
 }
 
+.title {
+    text-align: center;
+}
+
 .step {
     display: flex;
     flex-direction: column;
@@ -38,4 +42,8 @@
     border-bottom-left-radius: 30px;
     border-top-left-radius: 30px;
     padding: 5px 12px;
+}
+
+p {
+    margin: 20px;
 }
